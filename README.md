@@ -17,3 +17,6 @@
       <li> My Name Rio Kurniawan </li>
       <li> Still Learning 📚 </li>
   </div>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riokurniawan-id&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=Riokurniawan-id&theme=algolia&show_icons=true)](https://github.com/Riokurniawan-id)
