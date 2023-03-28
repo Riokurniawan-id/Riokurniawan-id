@@ -5,3 +5,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riokurniawan-id)](https://github.com/Riokurniawan-id/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riokurniawan-id)
+<img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riokurniawan-id&layout=compact" width="375"/>
